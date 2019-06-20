@@ -1,0 +1,13 @@
+= Gradle Plugin Development Community
+
+Welcome to the Gradle Plugin Development Community! The goal of this community is to improving the quality of every Gradle plugins. Feel free to contribute and help achieve our goal.
+
+== Vision
+
+We want to be the leader in reducing boilerplate code for developing state-of-the-art builds while improving the quality of your build. We are starting small with two projects: 1) reduce the development time, from start to finish, of a Gradle plugin and 2) provide a plugin analysis service to every plugin on the https://plugins.gradle.org[Plugin Portal].
+
+The first project is all about providing sensible defaults to Gradle plugin project for common use-cases. At the beginning, it may be too opinionated for your workflow. That is fine, but raise issues with us so we can provide the right knob so it fit your project.
+
+The second project, currently on hold, is a plugin analysis service. The goals here are in two folds: 1) we want to provide a list of actionable items to plugin authors for improving the quality of their plugins and 2) we want to provide insight to the plugin users about the quality (and even risk involved) of adding a plugin to their build.
+
+NOTE: At the moment, the second project is on hold until the plugin portal is improved to avoid having to scrap UI to perform our analysis.
